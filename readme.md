@@ -53,5 +53,3 @@ This project empowers retailers with data-driven insights to refine their produc
 
 ---
 
-*Feel free to contribute, raise issues, or request features to improve this project!*
-
