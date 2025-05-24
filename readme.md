@@ -1,7 +1,7 @@
-# BigMart Sales Data Analysis
+# Big Mart Sales Data Prediction
 
 ## Project Overview
-The **BigMart Sales Data** project provides a comprehensive view of retail operations, focusing on item specifics, outlet details, and sales performance. This dataset enables businesses to strategically tailor product modifications and marketing efforts by understanding customer preferences and optimizing resources based on **outlet types**, sales trends, and other critical factors.
+The **Big Mart Sales Data** project provides a comprehensive view of retail operations, focusing on item specifics, outlet details, and sales performance. This dataset enables businesses to strategically tailor product modifications and marketing efforts by understanding customer preferences and optimizing resources based on **outlet types**, sales trends, and other critical factors.
 
 By analyzing attributes such as **outlet size**, location, and establishment year, businesses can make informed decisions to improve customer engagement and maximize the impact of their retail strategies.
 
