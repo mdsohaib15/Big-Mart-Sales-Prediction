@@ -12,6 +12,7 @@ df = pd.read_csv('Train.csv')
 item_identifiers = df['Item_Identifier'].unique()
 
 # Title and Image
+
 st.title("🛒 Big Mart Sales Prediction 📊")
 st.image("bigmart.jpg", caption="Big Mart Sales Data Analysis", use_container_width =True)
 
