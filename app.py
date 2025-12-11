@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-# from xgboost import XGBRegressor
+from xgboost import XGBRegressor
 
 # Load model
 model = pickle.load(open('model.pkl', 'rb'))
